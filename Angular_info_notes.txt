@@ -922,7 +922,9 @@ h2 {
 Angular Routing and Navigation Example
 
 When we click on "View Detail", then view-detail/:id route is called where id will be book id. To handle the view detail we have the following component.
+
 view-detail.component.ts
+
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, Params } from '@angular/router';
 import { Location } from '@angular/common';
@@ -1348,7 +1350,7 @@ constructor(private _fb:FormBuilder) { }
 
 this.form1 = this._fb.group({})
 
-Creating FormGroup inside FormArray in Angular
+Creating FormGroup inside FormGroup in Angular
 
 On this page we will learn to create FormGroup inside FormArray in Angular application. The FormGroup tracks the value and validity state of a group of FormControl instances. The FormArray tracks the value and validity state of an array of FormControl, FormGroup or FormArray instances. Inside a FormArray, we can create FormControl, FormGroup or FormArray.
 Here in our example, we will create FormGroup inside FormArray.
@@ -1362,17 +1364,37 @@ Find the TypeScript code.
 
 
 
-		
+		31006-Gartner-CPL-Q4-Practice-R&D-XDBS Corp
+
+31006-Gartner-CPL-Q4-1
+
+30813-Workhuman EMEA-CPL-Q4-UKI-XDBS Corp
+
+LP-FY23-Q4-Informatica-CS-AIH-US-1
 
 
+30813-Workhuman-EMEA-CPL-Q4-EU-1
+
+31246-OnProcess-Technology-1
+
+31484-Microsoft-CPL-Q3-PMG-ABM Managed-Digital Workforce Scale-United Kingdom-XDBS Corp
+
+Fwd: 31484 - 0123-0120 - Microsoft-CPL-Q3-PMG-ABM Managed-Digital Workforce Scale-United Kingdom-XDBS Corp
+
+31484-Microsoft-CPL-Q3-1
 
 
+31462-Microsoft-CPL-Q3-DE-EU-1
+
+31462 - Microsoft-CPL-Q3-PMG-ABM Managed-Digital Workforce Scale-WE-XDBS Corp
 
 
  
 
 
+ Phantom- LP DIG Glia PO #74229
 
+LP-DIG-Glia-74229-1
 
 
 
